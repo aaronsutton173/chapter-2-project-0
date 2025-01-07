@@ -40,4 +40,12 @@ nav {
 
 .nav__link--anchor {
     margin: 0 12px;
+    color: #242424;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.button {
+    color: #6030b1;
+    padding: 8px 20px;
 }
