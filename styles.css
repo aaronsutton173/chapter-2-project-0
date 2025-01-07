@@ -30,7 +30,7 @@ nav {
     max-width: 1000px;
     margin: 0 auto;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -48,4 +48,13 @@ nav {
 .button {
     color: #6030b1;
     padding: 8px 20px;
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+}
+
+h1 {
+    text-align: left;
 }
