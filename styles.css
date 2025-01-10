@@ -7,6 +7,11 @@ margin:0;
 box-sizing: border-box;
 }
 
+.img.2c489fc453a1783cbadacf914efa3df6.svg {
+width: 50px;
+}
+    
+
 h1, h2, h3, h4, h5, h6, span {
     color: #242424;
     text-align: center;
@@ -18,11 +23,6 @@ p {
     font-size: 16px;
 }
 
-.img6da6a00b20c07c4a9b65d1870679e1b8
-{
-    width: 200px;
-    height: 200px;
-}
 
 li {
     list-style-type: none;
