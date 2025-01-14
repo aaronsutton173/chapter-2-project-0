@@ -45,8 +45,14 @@ nav {
 .nav__link--list {
     display: flex;
 }
-.img.2c489fc453a1783cbadacf914efa3df6.svg{
-    width: 500px;
+.img.2c489fc453a1783cbadacf914efa3df6.svg {
+    height: 100px;
+    width: 100px;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;   
 }
 .nav__link--anchor {
     margin: 0 12px;
