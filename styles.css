@@ -57,6 +57,7 @@ nav.navbar{
 
 .navbar a {
     text-decoration: none;
+    text-align: center;
 }
 
 .nav__link--list {
