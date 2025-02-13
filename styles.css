@@ -19,8 +19,8 @@ p {
 
 li {
     list-style-type: none;
+    padding-left: 16px;
 }
-
 .image {
     max-width: 600px;
     float: right;
@@ -52,6 +52,12 @@ nav {
     height: 200px;
     display: flex;
     justify-content: space-between;
+}
+
+a {
+    color: #242424;
+    font-size: 24px;
+    font-weight: 700;
 }
 
 .logo {
