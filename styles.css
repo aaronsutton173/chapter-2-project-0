@@ -54,6 +54,16 @@ nav {
     justify-content: space-between;
 }
 
+header {
+    background-color: ;
+    height: 100vh;
+}
+
+.subheader {
+font-size: 24px;
+margin: 16px 8 24px 0;
+}
+
 a {
     color: #242424;
     font-size: 24px;
