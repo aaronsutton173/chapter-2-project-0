@@ -23,24 +23,21 @@ li {
 }
 
 .button {
-    color:#7342d6;
+    color:white;
+    background-color: blue;
+    border-radius: 60px;
 
 }
 .image {
-    max-width: 600px;
+    position: relative;
+    top: -120px;
     float: right;
+    height: 400px;
+    width: 60%;
 }
  
-h1 {
-    text-align: left;
-    font-size: 36px;
-    display: flex;
-}
 
-h3 {
-    text-align: center;
-    float: left;
-}
+
 
 ul {
     display: flex;
@@ -158,10 +155,58 @@ a {
     
     .nav__link :hover{
     
-    text-decoration: underline;
+    text-decoration: none;
     
     }
 
     .nav__link--primary:hover {
         text-decoration: none;
+    }
+
+    .header__container {
+        width: 100%;
+        max-width: 720px;
+        margin: 0 auto;
+        height: 100%;
+        display: flex;
+        flex-direction:column
+    }
+
+    h1 {
+        font-size: 48px;
+        position: relative;
+        bottom: -100px;
+        width: 40%;
+    }
+
+    h2 {
+        font-size: 24px;
+        float: left;
+        position: relative;
+        bottom: -100px;
+        display: flex;
+        width: 40%;
+    }
+
+    .row1 {
+        flex-direction: column;
+        display: flex;
+        text-align: center;
+        justify-content: left;
+        
+    }
+
+    .row2 {
+        flex-direction: column;
+        display: flex;
+        text-align: center;
+    }
+
+    .placeholder{
+        display: flex;
+        align-items: center;
+        position: relative;
+        text-align: center;
+        top: 100px;
+        width: 500px;
     }
