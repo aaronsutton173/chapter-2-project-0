@@ -35,6 +35,12 @@ li {
     height: 400px;
     width: 60%;
 }
+
+h3 {
+    float: left;
+    position: relative;
+    right: 260px;
+}
  
 
 
@@ -96,6 +102,7 @@ a {
     color: #242424;
     font-size: 24px;
     font-weight: 700;
+    text-decoration: none;
 }
 
 .logo {
@@ -119,6 +126,8 @@ a {
     align-items: center;
     
     margin: 0 auto;
+
+
 
     
 
@@ -208,5 +217,17 @@ a {
         position: relative;
         text-align: center;
         top: 100px;
-        width: 500px;
+        width: 750px;
+        height: 40px;
+        border-radius: 90px;
+    }
+
+    .btn {
+        color:white;
+        background-color: blue;
+        border-radius: 90px;
+        float:right; 
+        position: relative;
+        bottom: -80px;  
+        left: 20px;
     }
