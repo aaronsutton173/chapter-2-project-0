@@ -26,6 +26,7 @@ li {
     color:white;
     background-color: blue;
     border-radius: 90px;
+    height: 30px;
 
 }
 .image {
@@ -217,17 +218,55 @@ a {
         position: relative;
         text-align: center;
         top: 100px;
-        width: 750px;
-        height: 40px;
-        border-radius: 90px;
+        width: 740px;
+        height: 55px;
+        border-radius: 100px;
     }
 
     .btn {
         color:white;
         background-color: blue;
+        height: 55px;
+        width: 90px;
         border-radius: 90px;
         float:right; 
         position: relative;
-        bottom: -80px;  
-        left: 20px;
+        top: 45px;  
+        right: 20px;
+    }
+
+    .components {
+        position: relative;
+        bottom: -100px;
+    }
+
+    h6 {
+        position: relative;
+        bottom:-120px;
+    }
+
+    .features {
+        color: #7342d6;
+        position: relative;
+        left:900px;
+        top: 200px;
+        text-align: center;
+    }
+
+    .purple{
+        color: #7342d6;
+    }
+
+    .amazing {
+        position: relative;
+        bottom:-200px;
+        left: 600px;
+    }
+
+    p {
+        color: dimgrey;
+        position: relative;
+        top:210px;
+        left: 600px;
+        text-align: center;
     }
