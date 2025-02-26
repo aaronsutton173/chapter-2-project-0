@@ -271,11 +271,35 @@ a {
         text-align: center;
     }
     
-    .container {
+    .image__wrapper {
         display: flex;
         justify-content: space-between;
         position: relative;
         top: 250px;
         left: 600px;
         font-size: 25px;
+    }
+
+    .shield {
+        position: relative;
+        right:200px;
+        top: 10px;
+    }
+
+    .support {
+        position: relative;
+        right:220px;
+        top: 10px;
+    }
+
+    .customizeable {
+        position: relative;
+        left:270px;
+        top: 40px;
+    }
+
+    .security {
+        position: relative;
+        right: 500px;
+        top: 100px;
     }
