@@ -303,3 +303,8 @@ a {
         right: 500px;
         top: 100px;
     }
+     .reliableicon{
+        position: relative;
+        right: 300px;
+        bottom: 300px;
+     }
