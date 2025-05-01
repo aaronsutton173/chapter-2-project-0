@@ -294,14 +294,14 @@ a {
 
     .customizeable {
         position: relative;
-        left:260px;
-        bottom: 40px;
+        left:280px;
+        bottom: 50px;
     }
 
     .security {
         position: relative;
-        left: 1000px;
-        top: 100px;
+        right: 1200px;
+        bottom: 100px;
     }
 
     
