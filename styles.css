@@ -266,8 +266,8 @@ a {
     p {
         color: dimgrey;
         position: relative;
-        top:210px;
-        left: 650px;
+        top:240px;
+        left: 530px;
         text-align: center;
     }
     
@@ -300,14 +300,14 @@ a {
 
     .security {
         position: relative;
-        right: 1200px;
-        bottom: 100px;
+        right: 2500px;
+        bottom: 1600px;
     }
 
     .reliable {
         position: relative;
-        left:300px;
-        top: 240px;
+        left:350px;
+        bottom: 840px;
     }
 
     
