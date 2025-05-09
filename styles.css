@@ -295,7 +295,7 @@ a {
     .customizeable {
         position: relative;
         left:280px;
-        bottom: 50px;
+        bottom: 60px;
     }
 
     .security {
@@ -306,8 +306,8 @@ a {
 
     .reliable {
         position: relative;
-        left:370px;
-        bottom: 840px;
+        left:300px;
+        top: 1040px;
     }
 
     
