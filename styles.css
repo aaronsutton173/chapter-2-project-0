@@ -271,31 +271,31 @@ a {
         text-align: center;
     }
     
-    .image__wrapper {
+    .row {
         display: flex;
         justify-content: space-between;
         position: relative;
         top: 250px;
-        left: 600px;
+        left: 100px;
         font-size: 25px;
     }
 
     .shield {
         position: relative;
-        right:200px;
+        right:300px;
         top: 10px;
     }
 
     .support {
         position: relative;
-        right: 230px;
-        bottom: 10px;
+        right: 350px;
+        top: 20px;
     }
 
     .customizeable {
         position: relative;
-        left:280px;
-        bottom: 60px;
+        left:680px;
+        bottom: 90px;
     }
 
     .security {
