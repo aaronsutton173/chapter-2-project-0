@@ -242,8 +242,9 @@ a {
 
     h6 {
         position: relative;
-        bottom:120px;
+        top:120px;
     }
+
 
     .features {
         color: #7342d6;
@@ -256,6 +257,7 @@ a {
     .purple{
         color: #7342d6;
     }
+
 
     .amazing {
         position: relative;
@@ -270,7 +272,6 @@ a {
         left: 530px;
         text-align: center;
     }
-    
     .row {
         display: flex;
         justify-content: space-between;
@@ -280,21 +281,21 @@ a {
         font-size: 25px;
     }
 
-    .shield {
+    .shieldi img{
         position: relative;
         right:300px;
         top: 10px;
     }
 
-    .support {
+    .support img {
         position: relative;
         right: 350px;
         top: 20px;
     }
 
-    .customizeable {
+    .customizeable img {
         position: relative;
-        left:680px;
+        left: 200px;
         bottom: 90px;
     }
 
@@ -306,8 +307,11 @@ a {
 
     .reliable {
         position: relative;
-        left:300px;
-        top: 1035px;
+        left:500px;
+        bottom: 1035px;
     }
+
+    
+    
 
     
