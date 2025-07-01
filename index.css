@@ -25,9 +25,6 @@ li {
 .button {
     color:white;
     background-color: blue;
-    border-radius: 90px;
-    height: 30px;
-
 }
 .image {
     position: relative;
