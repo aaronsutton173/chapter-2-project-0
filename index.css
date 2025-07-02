@@ -25,6 +25,7 @@ li {
 .button {
     color:white;
     background-color: blue;
+    text-decoration-color: #7342d6;
 }
 .image {
     position: relative;
